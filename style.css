@@ -7,11 +7,25 @@ body{
     color:red;
     height : 80px;
     text-align: center;
+    font-family:monospace
+
 }
 h1{
     color:red;
-    font-family:Verdana, Geneva, Tahoma, sans-serif
+    font-family:monospace
 }
 .presentation img{
+    height: 10%;
+    width: 10%;
+    float: center;
+}
+.presentation table{
     height: 200px;
+    width: 200px;
+    margin: 15px;
+    float: left;
+
+}
+footer{
+    text-align: center;
 }
