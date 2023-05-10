@@ -1,7 +1,17 @@
+header{
+    color:red;
+
+}
 body{
+    background-color: black;
+    color:red;
     height : 80px;
     text-align: center;
 }
-img{
+h1{
+    color:red;
+    font-family:Verdana, Geneva, Tahoma, sans-serif
+}
+.presentation img{
     height: 200px;
 }
