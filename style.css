@@ -26,6 +26,10 @@ h1{
     float: left;
 
 }
+
+.presentation label{
+    border: 2px;color: red;
+}
 footer{
     text-align: center;
 }
