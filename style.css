@@ -1,5 +1,9 @@
+*{
+
+}
 header{
     color:red;
+    height: 80 px;
 
 }
 body{
@@ -13,23 +17,23 @@ body{
 h1{
     color:red;
     font-family:monospace
+    
+}
+
+.groupe img{
+    height: 40%;
+    width: 40%;
+}
+
+.presentation li{
+    display: inline;
 }
 .presentation img{
     height: 10%;
     width: 10%;
     float: center;
-}
-.presentation table{
-    height: 200px;
-    width: 200px;
-    margin: 15px;
-    float: left;
 
-}
 
-.presentation label{
-    border: 2px;color: red;
-}
-footer{
-    text-align: center;
+.presentation select{
+    display:inline
 }
